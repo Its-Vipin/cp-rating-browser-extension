@@ -1,0 +1,19 @@
+{
+    "name": "CP Rating",
+    "version": "1.0.0",
+    "description": "CP Rating is a browser extension created by Vipin that enhances your Codeforces (CF) experience by providing a convenient way to view and manage Codeforces ratings. Stay updated on your competitive programming progress with quick access to your Codeforces rating directly from the extension popup. The extension offers a seamless interface with a minimalist design, making it easy to check your Codeforces rating without leaving your current browsing session. Simply click on the CF Rating extension icon, and you'll have instant access to your Codeforces rating information. Elevate your coding journey with CF Rating – the essential companion for Codeforces enthusiasts.",
+    "manifest_version": 3,
+    "author": "Vipin",
+    "action":{
+        "default_icon" : "./img/icon.png",
+        "default_popup": "index.html",
+        "default_title": "CF Rating"
+    },
+    "icons":{
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    }   
+}
+
+
