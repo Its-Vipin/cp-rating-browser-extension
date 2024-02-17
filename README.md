@@ -34,7 +34,7 @@ CP Rating is a Chrome extension designed to enhance the Competitive Programming 
 ## Contributing
 
 Basically my idea was to integrate all the competitive programming sites in one extension. But due unavailability of API's for other sites, I have to limit it to Codeforces only. But in future I will try to integrate other sites as well.
-If you'd like to contribute to the development of CF Rating, please follow these guidelines. Contributions are welcome!
+If you'd like to contribute to the development of CP Rating, Contributions are welcome!
 
 ## Issues
 
