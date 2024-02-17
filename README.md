@@ -46,3 +46,5 @@ I know it is very basic but i wanted to try my hands on chrome extension. I will
 
 ## License
 
+This project is licensed under the [MIT License](LICENSE).
+
