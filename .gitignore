@@ -78,3 +78,5 @@ yarn-error.log*
 
 # Ignore file
 app.js
+index2.html
+index3.html
